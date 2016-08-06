@@ -10,7 +10,9 @@ dice_pins array
 *1  *6 *4
 *2     *5
 
-Arvi Võime 2016
+avoime@gmail.com 2016
+git@github.com:voime/arduinoDice.git
+
 */
 
 #include <CapacitiveSensor.h>
