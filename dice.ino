@@ -10,7 +10,7 @@ dice_pins array
 *1  *6 *4
 *2     *5
 
-Arvi VÃµime 2016
+Arvi Võime 2016
 */
 
 #include <CapacitiveSensor.h>
@@ -200,4 +200,3 @@ void dice(int value){
   show_dice = false;
 
 }
-
